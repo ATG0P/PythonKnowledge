@@ -12,7 +12,7 @@ print(l3.ndim)
          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 ValueError: setting an array element with a sequence. The requested array has an inhomogeneous shape after 2 dimensions. The detected shape was (3, 3) + inhomogeneous part.
 
-It's becuz in the last array, you are supposed to have 3 elements to maintain the homogenity. Improv code below '''
+It's becuz in the last array, you are supposed to have 3 elements to maintain the homogenity. Improved code below '''
 
 l4 = nm.array([[['a','b','c'],['d','e','f'],['g','h','i']],
               [['j','k','l'],['m','n','o'],['p','q','r']],
