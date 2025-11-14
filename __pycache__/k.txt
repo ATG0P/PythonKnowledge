@@ -1,0 +1,11 @@
+class Companies:
+    def __init__ (self,name):
+        pass
+class Tata(Companies):
+    def __init__(self,car,software):
+        super().__init__(self,name)
+        self.car = car
+        self.software = software
+
+tata = Tata("Nano","Tcs")
+print(tata
