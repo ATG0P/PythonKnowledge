@@ -15,4 +15,3 @@ print(arr2>=3)
 arr1[arr1<=3]=0
 arr2[arr2>=3]=0
 print(arr1,arr2)
-print("Hi")
