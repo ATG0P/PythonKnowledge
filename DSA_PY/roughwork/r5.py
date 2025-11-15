@@ -16,3 +16,4 @@ c =np.array([
 print(c.shape)
 print(c[2][1][0])
 print(c[0,0,1])
+print(c.ndim)
