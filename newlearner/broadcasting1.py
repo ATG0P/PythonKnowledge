@@ -4,9 +4,9 @@ Broadcasting allows NumPy to perform operations on array
 with different shapes by virtually expanding dimensions
 so they match the larger array's shape
 RULES:-
-The dimensions have the same size
+The dimensions have the same size(from the righ most side)
 OR
-One of the dimensions has a size of 1 but not both should be necessarily be 1'''
+One of the dimensions has a size of 1 but not both should be necessarily be 1(again from the right most side)'''
 
 array1 = np.array([[1,2,3,4]])
 array2 = np.array([[1],[2],[3],[4]])
