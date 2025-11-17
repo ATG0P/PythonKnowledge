@@ -10,5 +10,5 @@ print(np.max(array))
 print(np.argmin(array))#index of minimum number
 print(np.argmax(array))#index of maximum number
 
-print(np.sum(array, axis=0))#returns an array of sum of all indexes=0 
+print(np.sum(array, axis=0))#returns an array of sum of all colums (axis=1 is for rows btw)
 print(np.sum(array, axis=np.argmin(array)))#basically, index=0
