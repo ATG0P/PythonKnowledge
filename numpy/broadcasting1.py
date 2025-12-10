@@ -17,5 +17,5 @@ therefore:-'''
 print(array1*array2,"\n")
 array3 = np.array([[1,2,3,4],
                    [5,6,7,8]])
-# print(array2*array3)#(4,1)*(2,4) therefore ValueError
+#print(array2*array3)#(4,1)*(2,4) therefore ValueError
 print(array3*array1)#(2,4)*(1,4) herefore it worked since 4 and 4 match

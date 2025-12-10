@@ -5,7 +5,7 @@ print(np.sum(array))
 print(np.mean(array))
 print(np.std(array))#standard deviation
 print(np.var(array))#variance
-print(np.min(array,axis=0))
+print(np.min(array,axis=1))
 print(np.max(array))
 print(np.argmin(array))#index of minimum number
 print(np.argmax(array))#index of maximum number

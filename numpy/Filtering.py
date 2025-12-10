@@ -12,5 +12,5 @@ print(Can_Drive)
 print(Cannot_Drive)
 print(Retired_Drivers)
 
-adults = np.where(age>=18,age,18) #it will create an array from array 'age' and replace the the element with 18 if the given conditon is not satisfied
+adults = np.where(age>=18) #it will create an array from array 'age' and replace the the element with 18 if the given conditon is not satisfied
 print(adults)
