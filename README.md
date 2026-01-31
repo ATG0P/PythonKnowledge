@@ -81,11 +81,11 @@ This is intentional and part of the learning process.
 <hr>
 
 <h2>🚀 Running the Code</h2>
-
+/*https://github.com/ATG0P/PythonKnowledge.git*/
 <pre>
-git clone https://github.com/&lt;your-username&gt;/&lt;repo-name&gt;.git
-cd &lt;repo-name&gt;
-python filename.py
+git clone https://github.com/&lt;ATG0P&gt;/&lt;PythonKnowledge&gt;.git
+cd &lt;PythonKnowledge&gt;
+python filename.py (any python file that you would like)
 </pre>
 
 <p>
@@ -98,8 +98,7 @@ which are noted where relevant.
 <h2>📌 Status</h2>
 
 <ul>
-  <li>Currently private</li>
-  <li>Will be made public once organization and notes are finalized</li>
+  <li>Currently Public</li>
   <li>Continuously updated as learning continues</li>
 </ul>
 
