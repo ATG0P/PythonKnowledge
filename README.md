@@ -81,7 +81,6 @@ This is intentional and part of the learning process.
 <hr>
 
 <h2>🚀 Running the Code</h2>
-/*https://github.com/ATG0P/PythonKnowledge.git*/
 <pre>
 git clone https://github.com/&lt;ATG0P&gt;/&lt;PythonKnowledge&gt;.git
 cd &lt;PythonKnowledge&gt;
