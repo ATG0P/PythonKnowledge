@@ -37,7 +37,7 @@ This is a <strong>living repository</strong> that evolves as my understanding gr
 <p>
 
 Some projects in this repository use publicly available datasets sourced from 
-<br>
+
 <a href="https://www.kaggle.com" target="_blank">Kaggle</a>.
 </p>
 
@@ -50,7 +50,10 @@ including data cleaning, visualization, and basic analysis.
 Some datasets were obtained through publicly available tutorials
 and educational GitHub repositories. Credit belongs to the original
 dataset creators and instructors.
+<br>
 Anime csv: <a href="https://youtu.be/QUaSmqBeR9w?list=PLaldQ9PzZd9qPYGj4aWUXitBlfWz72e9m" target"_blank">Source Video</a>
+<br>
+Countries csv: <a href="https://youtu.be/QUaSmqBeR9w?list=PLaldQ9PzZd9qPYGj4aWUXitBlfWz72e9m" target"_blank">Source Video</a>
 </p>
 
 <p>
