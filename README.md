@@ -45,9 +45,10 @@ including data cleaning, visualization, and basic analysis.
 </p>
 
 <p>
-Full credit belongs to the original dataset creators on Kaggle.
-Each project folder that uses external data includes a reference
-to the specific dataset source.
+Some datasets were obtained through publicly available tutorials
+and educational GitHub repositories. Credit belongs to the original
+dataset creators and instructors.
+Anime csv: <a href="https://youtu.be/QUaSmqBeR9w?list=PLaldQ9PzZd9qPYGj4aWUXitBlfWz72e9m" target"_blank">Source Video</a>
 </p>
 
 <p>
