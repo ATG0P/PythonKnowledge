@@ -32,6 +32,24 @@ This is a <strong>living repository</strong> that evolves as my understanding gr
   <li>Gradually transition from simple scripts to structured programs</li>
 </ul>
 
+<h2>📊 Data Sources</h2>
+
+<p>
+Some projects in this repository use publicly available datasets sourced from 
+<a href="https://www.kaggle.com" target="_blank">Kaggle</a>.
+</p>
+
+<p>
+The datasets are used strictly for educational and exploratory purposes,
+including data cleaning, visualization, and basic analysis.
+</p>
+
+<p>
+Full credit belongs to the original dataset creators on Kaggle.
+Each project folder that uses external data includes a reference
+to the specific dataset source.
+</p>
+
 <p>
 Older code may be simpler or less optimized by design.
 </p>
