@@ -35,7 +35,9 @@ This is a <strong>living repository</strong> that evolves as my understanding gr
 <h2>📊 Data Sources</h2>
 
 <p>
+
 Some projects in this repository use publicly available datasets sourced from 
+<br>
 <a href="https://www.kaggle.com" target="_blank">Kaggle</a>.
 </p>
 
